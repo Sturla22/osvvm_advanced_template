@@ -1,6 +1,6 @@
 #!/bin/env python
 """!
-@file: run_vunit.py
+@file: run.py
 
 Based on http://sturla22.github.io/2021/03/27/vunit.html#configuring-compilation-and-tests
 
